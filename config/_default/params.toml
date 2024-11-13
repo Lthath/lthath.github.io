@@ -21,6 +21,8 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
+favicon = "/favicon.ico"
+
 defaultBackgroundImage = "background.png" # used as default for background images 
 #defaultFeaturedImage = "background.png" # used as default for featured images in all articles
 
@@ -161,3 +163,4 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # pinterest = ""
   # yandex = ""
   # fediverse = ""
+
