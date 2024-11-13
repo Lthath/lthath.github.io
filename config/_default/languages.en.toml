@@ -19,7 +19,7 @@ image = "me.png"
 headline = "Cloud ☁️ DevOps Engineer ♾️"
   links = [
     { email = "mailto:afarmachakimpro@gmail.com" },
-    { github = "https://github.com/username" },
-    { gitlab = "https://gitlab.com/username" },
-    { linkedin = "https://linkedin.com/in/username" },
+    { github = "https://github.com/Lthath/Lthath" },
+    { gitlab = "https://gitlab.com/Lthat_h" },
+    { linkedin = "https://www.linkedin.com/in/hakim-afarmach-52a487143/" },
   ]
