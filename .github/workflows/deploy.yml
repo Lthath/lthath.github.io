@@ -28,6 +28,10 @@ jobs:
       - name: Build Site
         run: hugo --minify
 
+      - name: Copy Custom Favicon
+        run: |
+            cp static/favicon.ico public/favicon.ico
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
